@@ -1,6 +1,6 @@
 [JAPANESE]
-TITLE=サンプル-省電力子機の下り通信
-DESC=MessagePoolを利用し子機からデータを送信後、ネットワークからのメッセージを受信し、メッセージ受信が終了した時点でスリープします。
+TITLE=省電力子機の下り通信 サンプル
+DESC=MessagePoolを利用して子機からデータを送信後、ネットワークからのメッセージを受信し、メッセージ受信が終了した時点でスリープするサンプルです。
 URL=https://github.com/monowireless/Samp_Wayback
 [ENGLISH]
 TITLE=Samp_Wayback
